@@ -12,7 +12,7 @@
     'author': "IT Admin",
     'website': "www.itadmin.com",
     'category': '',
-    'version': '15.0.1.0',
+    'version': '15.0.1',
     'depends': [
         'account', 'sale_management', 'stock',
         'stock_operating_unit',
